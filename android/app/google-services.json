@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602090383444",
+    "project_id": "praguns-new-app",
+    "storage_bucket": "praguns-new-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602090383444:android:22deb2b042c4aa507c65c1",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602090383444-tfkjta141nmg0cagg4ba4slu53q6d2s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFYDl5oiH9bPm8KeOVZtuMRwQIOJPKMJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602090383444-tfkjta141nmg0cagg4ba4slu53q6d2s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
